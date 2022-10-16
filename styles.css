@@ -1,0 +1,134 @@
+.dropdown
+{
+  padding-top: 50px;
+  margin-top: 200px;
+}
+.shadow
+{
+  margin-top: 150px;
+}
+
+.logo
+{
+  width: 35%;
+  border-radius: 100%;
+
+}
+.hr1
+{
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+  opacity: 5%;
+}
+.hr2
+{
+  opacity: 5%;
+}
+.companyname
+{
+  margin-left: 20px;
+}
+.sidebar-icons
+{
+  margin-right: 10px;
+}
+
+.column1
+{
+  margin-top: 5rem;
+}
+.h3
+{
+  margin-top: 2rem;
+}
+.card1
+{
+  width: 35%;
+  margin-left: 22rem;
+  margin-top: 12rem;
+}
+.table-responsive
+{
+  margin-top: 4rem;
+  margin-left: 5rem;
+  width: 150%;
+}
+.loadmore
+{
+  text-decoration: none;
+}
+.loadmore:hover
+{
+  color: red;
+  transition-delay: 0.1s;
+}
+/* .card-header
+{
+
+} */
+.card
+{
+  margin-left:10rem;
+  width: 70%;
+}
+.tr
+{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.sidebar-fixed
+{
+  position: absolute;
+}
+.col-lg-6
+{
+  position: relative;
+  width: 30%;
+  left: 250px;
+  margin-right: 200px;
+}
+.heading-payment
+{
+  margin-top: 2.5rem;
+}
+
+.card-logo
+{
+  width: 15%;
+}
+.card-number
+{
+  color: blue;
+  font-weight: bolder;
+}
+.remove-button
+{
+  margin-left: 210px;
+}
+.btn-outline-primary
+{
+
+  --bs-btn-bg: blue;
+  --bs-btn-color: white;
+
+}
+/* .text-center
+{
+  width: 25%;
+  magrin: 0 auto 0 auto;
+
+} */
+.mb-4
+{
+  border-radius: 100%;
+}
+.fluid-container-login
+{
+  text-align: center;
+  padding: 3% 15% 7%;
+}
+.form-box
+{
+  text-align:
+
+}
